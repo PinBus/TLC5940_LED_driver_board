@@ -1,1 +1,3 @@
-*.bak
+*bak
+*cache.lib
+rescue-backup
